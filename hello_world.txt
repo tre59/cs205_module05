@@ -1,0 +1,6 @@
+##Hello World! (Module 05 Assignment)
+What we are working on...
+	* Forking and Cloning Repository from GitHub
+	* Creating a new branch
+	* Staging and Commiting Changes in Git
+
